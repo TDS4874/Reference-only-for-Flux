@@ -23,7 +23,7 @@ Just code snippet
 9. Queue the workflow.
 
 ## variables.json Explanation
-- `mode`: Switch between "write" and "ref"
+- `mode`: Switch between "write", "ref", and "normal".
 - `kfactor`: Reference strength (1.1-1.3 is recommended. Small changes can significantly affect the result)
 - `vfactor`: Another reference strength (can be changed, but not recommended)
 - `tfactor_pairs`: Reference strength coefficient for each timestep
