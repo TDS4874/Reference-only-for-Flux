@@ -3,6 +3,8 @@ Just code snippet
 
 # Instructions for Using This Repository
 
+- **VRAM Usage**: This method requires increased VRAM usage. The exact amount depends on the image resolution.
+
 ## Setup
 1. Update three .py files in the comfy/ldm/flux directory.
    **Note**: Make sure to backup the original files before making any changes.
