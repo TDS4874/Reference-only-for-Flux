@@ -31,4 +31,6 @@ Just code snippet
 
 ## Additional Notes
 - Image-to-image (i2i) is possible, but you need to run the write mode when changing the number of steps or denoise amount for the first time.
-- Comment: This method often struggles with images where the subject is small relative to the background.
+- 
+## Limitations
+- This method may have difficulty processing images where there is a high ratio of background to subject (i.e., where the background contains a lot of information or the subject is small relative to the background).
